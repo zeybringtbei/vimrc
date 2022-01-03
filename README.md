@@ -1,4 +1,4 @@
-# My .vimrc / n
+# My .vimrc / init.vim
 My .vimrc and init.vim
 
 #### Note to myself:
